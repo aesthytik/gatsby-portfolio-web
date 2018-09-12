@@ -1,8 +1,8 @@
-# Kickoff GatsbyJs
+# GatsbyJs Portfolio
 
-A starting point using ReactJs, bundled with awesome GatsbyJs v2.
+A gatsby v2 powered portfolio
 
-[Demo](https://kickoff-gatsbyjs.netlify.com/)
+
 
 ## Stack
 

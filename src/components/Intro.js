@@ -26,26 +26,28 @@ const Intro = () => (
     <ul className="intro-social">
       <li>
         <a href="https://github.com/aesthytik">
-          <i className="fa fa-github" />
+          <i className="fab fa-github" />
         </a>
       </li>
       <li>
         <a href="https://twitter.com/aesthytik">
-          <i className="fa fa-twitter" />
+          <i className="fab fa-twitter" />
         </a>
       </li>
       <li>
         <a href="https://www.linkedin.com/in/aesthytik/">
-          <i className="fa fa-linkedin" />
+          <i className="fab fa-linkedin-in" />
         </a>
       </li>
       <li>
         <a href="https://www.instagram.com/aesthytik/">
-          <i className="fa fa-instagram" />
+          <i className="fab fa-instagram" />
         </a>
       </li>
       <li>
-        <a href="https://medium.com/@aesthytik">M</a>
+        <a href="https://medium.com/@aesthytik">
+          <i className="fab fa-medium-m" />
+        </a>
       </li>
     </ul>
   </section>

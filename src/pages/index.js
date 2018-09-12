@@ -9,6 +9,7 @@ import About from '../components/About';
 import Resume from '../components/Resume';
 import Portfolio from '../components/Portfolio';
 import Services from '../components/Services';
+import Contact from '../components/Contact';
 
 export default class IndexPage extends React.Component {
   render() {
@@ -21,9 +22,10 @@ export default class IndexPage extends React.Component {
         />
         <Intro />
         <About />
-        <Resume />
+        {/* <Resume /> */}
         <Portfolio />
         <Services />
+        <Contact />
       </Layout>
     );
   }
